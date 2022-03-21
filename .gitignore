@@ -12,3 +12,6 @@ target
 .classpath
 .project
 .settings
+/.idea/sonarlint/issuestore/
+.idea/git_toolbox_prj.xml
+.idea/jarRepositories.xml
